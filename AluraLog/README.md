@@ -9,7 +9,7 @@
 
 O desafio da 1ª semana envolvia desenvolver um Dashboard com indicadores de quatro datasets de um empresa de Logistica. As tarefas foram distribuidas pelo Trello, de modo muito semelhante com uma situação real de trabalho.
 
-Algumas etapas de limpeza dos dados foram necessárias e realizadas através da linguagem M do Power Query.
+Algumas etapas de limpeza dos dados foram necessárias e realizadas através da linguagem M do Power Query. Posteriormente, os dados foram vinculados através dos IDs de produtos e veículos, gerando um pequeno modelo dimensional.
 
 Os ícones utilizados foram baixados do https://www.freepik.com/, e editados para corresponder a uma identidade visual padrão no Inkscape.
 
